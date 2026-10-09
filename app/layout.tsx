@@ -3,7 +3,7 @@ import '@fontsource-variable/inter';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'WareTrack',
+  title: 'ATLwarehouse LIVE',
   description: 'Real-time warehouse management with a live isometric yard view.',
 };
 

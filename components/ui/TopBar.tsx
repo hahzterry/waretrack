@@ -260,7 +260,7 @@ export function TopBar() {
           <Building2 size={18} />
         </span>
         <span className="brand-name">
-          Ware<b>Track</b>
+          ATLwarehouse<b>LIVE</b>
         </span>
       </div>
       <SearchBox />
